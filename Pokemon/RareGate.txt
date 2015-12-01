@@ -1,0 +1,21 @@
+Chance x1:
+    Shiny Charizard [Cost: 25] [Rarity: 5/7]
+    Beedril [Cost: 10] [Rarity: 4/7]
+    Pikachu [Cost: 5] [Rarity: 3/7]
+
+Chance x0.8:
+    Shiny Mega Beedril [Cost: 25] [Rarity: 6/7]
+    Mega Charizard [Cost: 30] [Rarity: 6/7]
+    
+Chance x0.6:
+    Kyogre [Cost: 32] [Rarity: 6/7]
+    Groudon [Cost: 32] [Rarity: 6/7]
+    
+Chance x0.4:
+    Shiny Mega Metagross [Cost: 40] [Rarity: 7/7]
+    
+Chance x0.2:
+    Mega Rayquaza [Cost: 42] [Rarity: 7/7] [BONUS: Pikachu]
+    
+Chance x0.01:
+    Shiny Arceus [Cost: 55] [Rarity: 8/7]
