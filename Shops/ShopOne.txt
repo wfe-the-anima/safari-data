@@ -14,6 +14,7 @@ Misc:
     Scarf: $350
     Eviolite: $450
     Honey: $15
+    Summon Ticket: 5x Gem
 Pokemon Balls:
     Safari: $1
     Great: $15
