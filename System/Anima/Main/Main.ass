@@ -2,10 +2,5 @@ A1.ass
 A2.ass
 B1.ass
 B3.ass
-C1.ass
-C2.ass
-D1.ass
-E4.ass
-F9.ass
 
 printNew(ass);
