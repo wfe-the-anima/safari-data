@@ -5,7 +5,7 @@ OU--["Nague"];
 PackageContents = {
     van (pack == "Assembly") {
         Longitude(-1,32N,-4,43S);
-        Apmlitude(+9,-19N,5,+12N);
+        Amplitude(+9,-19N,5,+12N);
         }
     }
     
