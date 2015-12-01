@@ -1,0 +1,37 @@
+Misc:
+    Box: $150
+    Bait: $50
+    Rock: $50
+    Gacha: $4500
+    Itemfinder: $150
+    Gem: $15000
+    Battery: $500
+    Rare Candy: $5500 
+    Mega Stone: $10000
+    Salt: $10
+    Stick: $10
+    Amulet: $1000
+    Bell: $750
+    Scarf: $350
+    Eviolite: $450
+    Honey: $15
+Pokemon Balls:
+    Safari: $1
+    Great: $15
+    Ultra: $35
+    Master: $25000
+    Myth: $450
+    Luxury: $450
+    Quick: $450
+    Heavy: $450
+    Spy: $450
+    Clone: $450
+    Premier: $450
+Rare Items:
+    Crown: $3200
+    Pearl: $1000
+    Big Pearl: $2500
+    Nugget: $2500
+    Big Nugget: $5000
+    Stardust: $4500
+    Star Piece: $3500
