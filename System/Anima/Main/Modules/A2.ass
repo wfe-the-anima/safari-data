@@ -1,0 +1,6 @@
+EN,Language,Dragun,Package;
+ES,Languhar,Drebut,Penkone;
+
+tsk(A2.ass);
+
+ListenTo(A1.ass, Main.ass);
