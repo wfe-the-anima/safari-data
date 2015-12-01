@@ -1,0 +1,18 @@
+hash.create(HASH) && PrintNew(B1)
+
+ListenTo(Main.ass)
+
+Package(B1);
+
+when(itouch == "myass") {
+    PlaceNew(finger) up (it);
+    return Bounce;
+  }
+  
+it = (Object);
+
+Bounce = {
+    Boun: "hash",
+    User: "hash",
+    Gril: "hatie",
+    }
