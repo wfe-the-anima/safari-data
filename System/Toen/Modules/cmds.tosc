@@ -1,0 +1,28 @@
+when TOSK.toen(UserName.hash).hash(true) {
+    cmd (print.tosk(TOEN.client).userscript)
+}
+when TOSK.toen(UserName.hash).hash(false) {
+    cmd (print.tosk(TOEN.failure).userscript)
+}
+
+..| Command Files |..
+if TOSK.toen(Username.hash == "Administrator") {
+    cmd (tosk.commands == "all").print true
+}
+if TOSK.toen(Username.hash == "Debugger") {
+    cmd (tosk.command == "114/296").print true
+}
+if TOSK.toen(Username.hash == "User") {
+    cmd (tosk.command == "92/296").print true
+}
+if TOSK.toen(Username.hash == "Registered") {
+    cmd (tosk.command == "63/296").print true
+}
+if TOSK.toen(Username.hash == "Trial") {
+    cmd (tosk.command == "20/296").print true
+}
+if TOSK.toen(Username.hash == "Free") {
+    cmd (tosk.command == "5/296").print true 
+} else {
+    cmd (print.tosk(TOEN.deny).userscript)
+}
