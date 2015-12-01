@@ -4,7 +4,6 @@ Misc:
     Rock: $50
     Gacha: $4500
     Itemfinder: $150
-    Gem: $15000
     Battery: $500
     Rare Candy: $5500 
     Mega Stone: $10000
@@ -35,3 +34,18 @@ Rare Items:
     Big Nugget: $5000
     Stardust: $4500
     Star Piece: $3500
+    
+Packages:
+    1x Gem = $7500
+    3x Gem = $12350
+    5x Gem = $28000
+    10x Gem = $64000
+    25x Gem = $124000
+    50x Gem = $225000
+    100x Gem = $445000
+
+Chests o' Goodies:
+    1x Gem + 1x Summon Ticket = $9000
+    2x Gem + 1x Summon Ticket = $12300
+    5x Gem + 2x Summon Ticket = $16540
+    10x Gem + 5x Summon Ticket + 100 Safari Balls + 75 Great Balls + 50 Ultra Balls + 1 Master Ball = $124000 (BEST BUY)
