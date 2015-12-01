@@ -7,4 +7,5 @@ Players:
     Truth [ID: 3]
     Killa [ID: 4]
     闪亮原始盖欧卡 [ID: 5]
+    [Champion]Black [ID: 6]
     
