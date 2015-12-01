@@ -3,6 +3,7 @@
 Itemdata
     Misc:
         Money: $1000
+        Summon Ticket: 0
         Box: 4
         Bait: 50
         Rock: 50
