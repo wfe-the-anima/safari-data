@@ -1,0 +1,5 @@
+[Name: Killa]
+    [Level: 1]
+    [Cost Limit: 30] (Used for Party To Make sure users are not OP [Gets +5 Cost Per Level])
+    [Max Money: 10000] ([Gets +1000 Per Level])
+    [sID: 6201] (Used To Account for Trades)
