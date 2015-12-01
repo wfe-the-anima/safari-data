@@ -1,0 +1,59 @@
+vars = {"BreakNage", "Master", "Root", "ScriptDirectory"} {
+    BreakNage = new script ..| UserHash |.. 
+	Master = new script ..| Main |..
+	Root = new file ..| Root |..
+	ScriptDirectory = new system ..| Script Engine |..
+	endvars = {all}
+};
+
+/>> Engine One <</
+when Object ..| UserHash |.. recieved,
+    net system add = online {
+	    if ..| UserHash |.. is new {
+		    renew vars as true
+			}
+		if ..| UserHash |.. is old {
+		    print "BreakNage has been reloaded!"
+			}
+		}
+	net system add = offline {
+	    server = false 
+		}
+
+/>> Engine Two <</
+when Object ..| Main |.. recieved,
+    net system add = online {
+	    if ..| Main |.. is new {
+		    renew ..| UserHash |.. as true]
+			}
+		if ..| Main |.. is old {
+		    print (vars)
+			}
+	net system add = offline {
+	    return = true
+		}
+		
+/>> Main Script <</
+if Object is-not-valid {
+    color Red = false
+	new script = ObjUserhash
+	}
+    {
+    when Object is-valid {
+	    color Red = true
+		old script = ObjUserhash
+		}
+	}
+print Code = [
+    "1420391937582675836583658366865758676876353657256592185839703893758375837562754658546584675846584",
+	"0299358395745687486758565844574837548576487568475847576456456476745647675647565656467467845749494",
+	"2484757w75835683453856385683483573847484389573985473489473489573894748574895748957485748957485754",
+	"1019392738232836237462848363648236438647647364673574785456378464784647463574364763746374637647344",
+	"9999999999183947473648375836573395737845638546384346536473647364763736476374637463746374736473644",
+	"0",
+	"2",
+	]
+print Screen type [
+    "Server Hash/19102391938283728372837287328728732837/Screen Hash/0193923742384738473847384738473487/Button Hash/9384w49474583734834847473746374637647367346376/Shutdown Hash/0/Script Hash/1/",
+	"int/333029283928392738278372837/Password/0/DCEP/1/OBJECT/1/VARS/1/ENGINE/1/",
+	]
