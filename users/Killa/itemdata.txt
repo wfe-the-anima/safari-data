@@ -1,0 +1,45 @@
+[ID: 4]
+
+Itemdata
+    Misc:
+        Money: $1000
+        Box: 4
+        Bait: 50
+        Rock: 50
+        Gacha: 0
+        Itemfinder: 15
+        Gem: 0
+        Battery: 0
+        Rare Candy: 0
+        Mega Stone: 0
+        Salt: 0
+        Stick: 0
+        Amulet: 0
+        Bell: 0
+        Scarf: 0
+        Eviolite: 0
+        Honey: 0
+    Pokemon Balls:
+        Safari: 150
+        Great: 15
+        Ultra: 10
+        Master: 0
+        Myth: 0
+        Luxury: 0
+        Quick: 0
+        Heavy: 0
+        Spy: 0
+        Clone: 0
+        Premier: 0
+    Rare Items:
+        Crown: 0
+        Pearl: 0
+        Big Pearl: 0
+        Nugget: 0
+        Big Nugget: 0
+        Stardust: 0
+        Star Piece: 0
+        
+
+
+[TradeBanned?: False] | [ChanBanned?: False] | [ChanMuted?: False] | [Name: Killa]
