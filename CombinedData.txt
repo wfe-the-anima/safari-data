@@ -1,1 +1,7 @@
-
+[001]Bulbasaur [Rarity: 2/7] [Cost: 2] [002]Ivysaur [Rarity: 3/7] [Cost: 4] [003]Venusaur [Rarity: 5/7] [Cost: 10]
+    [003]Mega Venusaur [Rarity: 6/7] [Cost: 20] [004]Charmander [Rarity: 2/7] [Cost: 2] [005]Charmeleon [Rarity: 3/7] [Cost: 4]
+[006]Charizard [Rarity: 5/7] [Cost: 10] [006]Charizard X [Rarity: 6/7] [Cost: 20] [006]Charizard Y [Rarity: 6/7] [Cost: 20]
+[007]Squirtle [Rarity: 2/7] [Cost: 2] [008]Wartortle [Rarity: 3/7] [Cost: 4] [009]Blastoise [Rarity: 5/7] [Cost: 10]
+    [009]Mega Blastoise [Rarity: 6/7] [Cost: 20] [010]Caterpie [Rarity: 1/7] [Cost: 1] [011]Metapod [Rarity: 1/7] [Cost: 1]
+[012]Butterfree [Rarity: 2/7] [Cost: 2] [013]Weedle [Rarity: 1/7] [Cost: 1] [014]Kakuna [Rarity: 1/7] [Cost: 1]
+[015]Beedril [Rarity: 3/7] [Cost: 4] [015]Mega Beedril [Rarity: 5/7] [Cost: 10]
